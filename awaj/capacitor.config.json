@@ -1,0 +1,10 @@
+{
+  "appId": "cc.eu.awaj",
+  "appName": "Awaj",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
